@@ -11,6 +11,6 @@ In November, my all objective wass to refractor my code so that our prorject cou
 
 In the middle of December, I was assigned to second real project from my mentor. She required me to program ETL pipelines, actually this request for me in both of tasks was similar. Nevertheless, in this task I improved my project operation by developing `Incremental load algorithm` which ameliorated the speed of performance remarkably. [This link](https://www.notion.so/FPT-Information-System-5a14447523424b28a2cee8c63bf9bf17) is navigated to web page that I used to manage my project, including detailed workflow plan, deadline of each step and so on.
 
-All of my source code is in repository **Inrership-Project-Data-Engineer-FIS**(https://github.com/duyhuwng2910/Internship-Project-Data-Engineer-FIS)
+All of my source code is in repository [**Inrership-Project-Data-Engineer-FIS**](https://github.com/duyhuwng2910/Internship-Project-Data-Engineer-FIS)
 
 That is all about my internshp with Data Engineer role in FIS. During that time and until December 2024, I continue to study a bachelor's program in information technology at the [**University of Technology and Engineering**](https://uet.vnu.edu.vn), **Vietnam National University, Hanoi**.
