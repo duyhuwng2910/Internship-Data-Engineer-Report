@@ -1,4 +1,4 @@
-# Data-Engineer-Intership-Report
+# Data-Engineer-Internship-Report
 This is my internship report with Data Engineer role in [**FPT Information System (FIS)**](https://www.linkedin.com/company/fptis/mycompany/)
 
 I started my internship since the middle of July, 2022. I was introduced to the company by a brother who is a former president of the HRTech club as a Data Engineer trainee. In first two months, I spent my whole time reading two books that my mentor and leader of Data team gave to me which are **The Analytics Setup Guidebook** by holistic and **Building a Data Warehouse** by author **Vincent Rainardi** (I attached two reports respectively of them). During this period, I had read, researched and got experiments about what is a data warehouse system, components that inside it, how all of them work together and many things related to it, then I wrote all of them in my two reports.   
